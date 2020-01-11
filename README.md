@@ -1,5 +1,13 @@
 # Tyson McNulty
 
+## About Me
+
+I've been a full-time software developer since 2012. I currently work at [Pivotal Labs](https://pivotal.io/labs). I live in the Boston area. I use he/him pronouns. You can find me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/).
+
+When I'm not working, I enjoy spending time with my family and friends, powerlifting,creating music, a fresh cup of coffee, or playing a nice, immersive RPG.
+
+## Career
+
 ### **Software Engineering Manager**, Pivotal Labs (2017-present)
 
 * Provided career mentorship and advocacy for my team of five direct reports
@@ -67,7 +75,5 @@ Software engineering has been only one component of my role. We are consultants,
 **US Patent #9588938**. System-solver co-warping for time-domain solutions of continuous systems. [USPTO Full Text](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9588938.PN.&OS=PN/9588938&RS=PN/9588938)
 
 ## Skills
-
-I'm practiced in JVM (Java, Kotlin, Groovy) and 
 
 See [skills](./skills.md) for more details.
