@@ -1,5 +1,3 @@
-# Tyson McNulty
-
 ## About Me
 
 I've worked in the software industry since 2008. I live in the Boston area.
