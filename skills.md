@@ -17,7 +17,7 @@ This page lists my various skills around software languages, frameworks, technol
 *Competent*
 * I can employ this skill somewhat independently if needed.
 * I would actively seek strong opinions of other practitioners.
-* I can mentor new learners toward exposure.
+* I can mentor new learners toward familiarity.
 
 *Familiar*
 * I'm dependent on others to employ this skill.
