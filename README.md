@@ -15,15 +15,12 @@ When I'm not working, I enjoy spending time with my family and friends, powerlif
 * Deepen my software engineering practice simultaneously under Pivotal's "player-coach" management model
 * Strategize with leadership to identify and carry out office-wide initiatives on behalf of the business
 
-<details><summary>More...</summary>
-
----
+<details><summary>More...</summary><hr>
 I took on the people manager role in an effort to make a stronger impact on the success of my office, and in doing so, I developed a new perspective on the operation of our business. A large part of people management at my level could be summarized as bridging our leadership's goals with the individual intentions and motivations of my reports. I have found that I'm able to produce such alignment best when I am able to practice candor, empathy, and trust on both sides of that bridge.
 
 My time in this role has been split between 90% engineering and 10% people management. Maintaining my responsibilities as a contributor motivates me to a high degree, and I love that it keeps me attuned to the experiences of the majority of the office and to my reports.
 
----
-</details>
+<hr></details>
 
 ### **Software Engineer**, Pivotal Labs (2015-present)
 
@@ -31,15 +28,12 @@ My time in this role has been split between 90% engineering and 10% people manag
 * Consult in a client-facing role with customer organizations across industries: health care, personal insurance, federal (DoD), financial services
 * Adopt and champion Pivotal's test-driven development (TDD), pair programming, and DevOps practices
 
-<details><summary>More...</summary>
-
----
+<details><summary>More...</summary><hr>
 Becoming a software engineer at Pivotal Labs has been a profoundly transformative experience for me. At Labs, we espouse a very structured work methodology for its Labs teams: we aim to colocate 40 hours a week, pair program for 100% of our development time, and test-drive 100% of our code. Exceptions arose, but proved the rule--a deep understanding and commitment to Pivotal's engineering practices brought me and my teams product success time and time again.
 
 Software engineering has been only one component of my role. We are consultants, first and foremost, driving constantly toward our client's definition of success. Most of my project teams have been split 50/50 between Pivots and clients, and we prioritize pairing with our client's team members while we are onboarding them to our methodologies. As I have matured in my role, my daily project activities have become nearly 100% client-facing.
 
----
-</details>
+<hr></details>
 
 ### **Software Engineer**, MOTU (2012-2015)
 
@@ -47,8 +41,6 @@ Software engineering has been only one component of my role. We are consultants,
 * Collaborated with in-house designer to implement custom GUIs
 * Released plugins for use in MOTU's Digital Performer product
 * Piloted new workflows for plugin analysis and development in Mathematica and SystemModeler
-
-#### Details
 
 ### **Technical Writer**, MathWorks (2008-2012)
 * Maintained full documentation sets (RF Toolbox, SimRF) over seven releases
