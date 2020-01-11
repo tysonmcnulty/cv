@@ -1,6 +1,6 @@
 ## About Me
 
-I've worked in the software industry since 2008. I live in the Boston area.
+I've worked in the software industry since 2008. I live near Boston, Massachusetts.
 I use he/him pronouns. I currently work at [Pivotal Labs](https://pivotal.io/labs).
 
 In my career, I feel deeply rewarded when my work product enhances someone's life or changes the world for the better. I do my best work when I am part of a team that is diverse, motivated, curious, and kind.
