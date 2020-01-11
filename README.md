@@ -77,7 +77,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/
 
 ## Awards
 
-**US Patent #9588938**. System-solver co-warping for time-domain solutions of continuous systems. [USPTO Full Text](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9588938.PN.&OS=PN/9588938&RS=PN/9588938)
+**US Patent [#9588938](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9588938.PN.&OS=PN/9588938&RS=PN/9588938)**. System-solver co-warping for time-domain solutions of continuous systems.
 
 ## Skills
 
