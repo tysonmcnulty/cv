@@ -4,25 +4,25 @@ This page lists the skills I have employed professionally. I have listed each sk
 
 ## Definitions
 
-Practiced
-: I can employ this skill fully independently if needed.
-: I consider myself a peer to other practitioners.
-: I can mentor new learners toward effectiveness.
+*Practiced*
+* I can employ this skill fully independently if needed.
+* I consider myself a peer to other practitioners.
+* I can mentor new learners toward effectiveness.
 
-Effective
-: I can employ this skill mostly independently if needed.
-: I would usually defer to the strong opinions of practitioners.
-: I can mentor new learners toward competency.
+*Effective*
+* I can employ this skill mostly independently if needed.
+* I would usually defer to the strong opinions of practitioners.
+* I can mentor new learners toward competency.
 
-Competent
-: I can employ this skill somewhat independently if needed.
-: I would actively seek strong opinions of other practitioners.
-: I can mentor new learners toward exposure.
+*Competent*
+* I can employ this skill somewhat independently if needed.
+* I would actively seek strong opinions of other practitioners.
+* I can mentor new learners toward exposure.
 
-Exposed
-: I'm dependent on others to employ this skill.
-: I actively seek strong opinions of practitioners.
-: I can offer little to no mentorship.
+*Exposed*
+* I'm dependent on others to employ this skill.
+* I actively seek strong opinions of practitioners.
+* I can offer little to no mentorship.
 
 ## JVM
 
@@ -128,7 +128,7 @@ Exposed
 
 | Skill                | Proficiency |
 | :------------------  | :---------- |
-| MS Office            | Competent   |
+| MS Office            | Effective   |
 | G-Suite              | Effective   |
 | IntelliJ/Webstorm    | Practiced   |
 | Eclipse              | Competent   |
