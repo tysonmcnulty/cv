@@ -19,7 +19,7 @@ This page lists the skills I have employed professionally. I have listed each sk
 * I would actively seek strong opinions of other practitioners.
 * I can mentor new learners toward exposure.
 
-*Exposed*
+*Familiar*
 * I'm dependent on others to employ this skill.
 * I actively seek strong opinions of practitioners.
 * I can offer little to no mentorship.
@@ -66,9 +66,9 @@ This page lists the skills I have employed professionally. I have listed each sk
 | Go               | Competent   |
 | Ruby             | Competent   |
 | Python           | Competent   |
-| C#               | Exposed     |
+| C#               | Familiar    |
 | C++              | Competent   |
-| Swift            | Exposed     |
+| Swift            | Familiar    |
 
 ## Data
 
@@ -89,7 +89,7 @@ This page lists the skills I have employed professionally. I have listed each sk
 | :------------------ | :---------- |
 | OAuth2              | Effective   |
 | TLS                 | Competent   |
-| Penetration testing | Exposed     |
+| Penetration testing | Familiar    |
 | Fortify             | Competent   |
 | OWASP               | Competent   |
 | SonarQube           | Competent   |
@@ -101,16 +101,16 @@ This page lists the skills I have employed professionally. I have listed each sk
 | Shell (Bash)     | Practiced   |
 | Git              | Practiced   |
 | Concourse CI     | Practiced   |
-| CircleCI         | Exposed     |
+| CircleCI         | Familiar    |
 | Jenkins          | Competent   |
 | CF CLI           | Practiced   |
 | CF Apps Manager  | Practiced   |
 | Bosh             | Competent   |
 | Docker           | Effective   |
-| Kubernetes       | Exposed     |
-| Azure DevOps     | Exposed     |
-| GCP              | Exposed     |
-| AWS              | Exposed     |
+| Kubernetes       | Familiar    |
+| Azure DevOps     | Familiar    |
+| GCP              | Familiar    |
+| AWS              | Familiar    |
 
 ## Practices
 
