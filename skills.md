@@ -1,6 +1,6 @@
 # Skills
 
-This page lists the skills I have employed professionally. I have listed each skill with my assessment of my level of proficiency with that skill. Everything listed is something I would be interested in employing again or learning more about.
+This page lists my various skills around software languages, frameworks, technologies, practices, or applications. I have listed each skill with my self-assessment of my level of proficiency with that skill.
 
 ## Definitions
 
