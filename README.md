@@ -1,11 +1,13 @@
 ## About Me
 
 I've worked in the software industry since 2008. I live in the Boston area.
-I use he/him pronouns. I currently work at [Pivotal Labs](https://pivotal.io/labs). You can find me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/).
+I use he/him pronouns. I currently work at [Pivotal Labs](https://pivotal.io/labs).
 
-In my career, I feel deeply rewarded when the my work product enhances someone's life or changes the world for the better. I do my best work when I am part of a team that is diverse, motivated, curious, and kind.
+In my career, I feel deeply rewarded when my work product enhances someone's life or changes the world for the better. I do my best work when I am part of a team that is diverse, motivated, curious, and kind.
 
 When I'm not working, I enjoy spending time with my family and friends, powerlifting, creating music, a fresh cup of coffee, or playing a nice, immersive RPG.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/).
 
 ## Career
 
