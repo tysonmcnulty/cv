@@ -27,10 +27,10 @@ Exposed
 ## JVM
 
 | Skill                | Proficiency |
-| -------------------: | ----------: | 
-| Language (1.8+)      | Practiced   | 
-| Spring               | Practiced   | 
-| Spring Boot          | Practiced   | 
+| :------------------- | :---------- |
+| Language (1.8+)      | Practiced   |
+| Spring               | Practiced   |
+| Spring Boot          | Practiced   |
 | Spring Cloud         | Practiced   |
 | Spring Cloud Netflix | Practiced   |
 | Spring Security      | Practiced   |
@@ -44,10 +44,10 @@ Exposed
 ## JavaScript
 
 | Skill            | Proficiency |
-| ---------------: | ----------: | 
-| Language (ES6+)  | Practiced   | 
+| :--------------- | :---------- |
+| Language (ES6+)  | Practiced   |
 | Node (6+)        | Practiced   |
-| TypeScript (2+)  | Effective   | 
+| TypeScript (2+)  | Effective   |
 | NPM              | Practiced   |
 | React (0.14+)    | Practiced   |
 | Redux            | Practiced   |
@@ -62,7 +62,7 @@ Exposed
 ## Other programming languages
 
 | Skill            | Proficiency |
-| ---------------: | ----------: | 
+| :--------------- | :---------- |
 | Go               | Competent   |
 | Ruby             | Competent   |
 | Python           | Competent   |
@@ -73,7 +73,7 @@ Exposed
 ## Data
 
 | Skill            | Proficiency |
-| ---------------: | ----------: | 
+| :--------------- | :---------- |
 | Postgres         | Effective   |
 | MySQL            | Effective   |
 | JSON             | Practiced   |
@@ -86,7 +86,7 @@ Exposed
 ## Security
 
 | Skill               | Proficiency |
-| ------------------: | ----------: | 
+| :------------------ | :---------- |
 | OAuth2              | Effective   |
 | TLS                 | Competent   |
 | Penetration testing | Exposed     |
@@ -97,10 +97,10 @@ Exposed
 ## DevOps
 
 | Skill            | Proficiency |
-| ---------------: | ----------: |
+| :--------------- | :---------- |
 | Shell (Bash)     | Practiced   |
 | Git              | Practiced   |
-| Concourse CI     | Practiced   | 
+| Concourse CI     | Practiced   |
 | CircleCI         | Exposed     |
 | Jenkins          | Competent   |
 | CF CLI           | Practiced   |
@@ -115,7 +115,7 @@ Exposed
 ## Practices
 
 | Skill                             | Proficiency  |
-| --------------------------------: | -----------: |
+| :-------------------------------- | :----------- |
 | Test-driven development           | Practiced    |
 | Pair programming                  | Practiced    |
 | Continuous Integration            | Practiced    |
@@ -127,11 +127,11 @@ Exposed
 ## Applications
 
 | Skill                | Proficiency |
-| ------------------:  | ----------: | 
-| MS Office            | Competent   | 
-| G-Suite              | Effective   | 
-| IntelliJ/Webstorm    | Practiced   | 
+| :------------------  | :---------- |
+| MS Office            | Competent   |
+| G-Suite              | Effective   |
+| IntelliJ/Webstorm    | Practiced   |
 | Eclipse              | Competent   |
-| Vim                  | Effective   | 
+| Vim                  | Effective   |
 | Visual Studio Code   | Effective   |
 | Postman              | Effective   |
