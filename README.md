@@ -1,13 +1,18 @@
 ## About Me
 
-I've worked in the software industry since 2008. I live near Boston, Massachusetts.
-I use he/him pronouns. I currently work at [Pivotal Labs](https://pivotal.io/labs).
+I've been a software professional since 2008, but I've probably been a software developer all my life.
 
-In my career, I feel deeply rewarded when my work product enhances someone's life or changes the world for the better. I do my best work when I am part of a team that is diverse, motivated, curious, and kind.
+In my career, I feel deeply rewarded when my work product enhances someone's life or makes the world a better place. For many years, I've mostly been making software to bring that about, but recently, it's involved some people management as well. I do my best work when I am part of a team that is diverse, motivated, curious, and kind.
 
-When I'm not working, I enjoy spending time with my family and friends, powerlifting, creating music, a fresh cup of coffee, or playing a nice, immersive RPG.
+I live near Boston, Massachusetts, and I currently work at [Pivotal Labs](https://pivotal.io/labs). You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/).
+When I'm not working, I enjoy spending time with my family and friends, strength training, creating music, playing video games, or just drinking a fresh cup of coffee.
+
+## Skills
+
+I've worked with a lot of different software languages, frameworks, technologies, and applications. I've built some pretty cool software with the help of some amazing people.
+
+If you're looking for details, see my [skills](./skills.md) page.
 
 ## Career
 
@@ -18,10 +23,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/
 * Strategize with leadership to identify and carry out office-wide initiatives on behalf of the business
 
 <details><summary>More...</summary>
-<hr>
 <p>I took on the people manager role in an effort to make a stronger impact on the success of my office, and in doing so, I developed a new perspective on the operation of our business. A large part of people management at my level could be summarized as bridging our leadership's goals with the individual intentions and motivations of my reports. I have found that I'm able to produce such alignment best when I am able to practice candor, empathy, and trust on both sides of that bridge.</p>
 
 <p>My time in this role has been split between 90% engineering and 10% people management. Maintaining my responsibilities as a contributor motivates me to a high degree, and I love that it keeps me attuned to the experiences of the majority of the office and to my reports.</p>
+
 <hr>
 </details>
 
@@ -32,10 +37,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/
 * Adopt and champion Pivotal's test-driven development (TDD), pair programming, and DevOps practices
 
 <details><summary>More...</summary>
-<hr>
-<p>Becoming a software engineer at Pivotal Labs has been a profoundly transformative experience for me. At Labs, we espouse a very structured work methodology for its Labs teams: we aim to colocate 40 hours a week, pair program for 100% of our development time, and test-drive 100% of our code. Exceptions arose, but proved the rule--a deep understanding and commitment to Pivotal's engineering practices brought me and my teams product success time and time again.</p>
+<p>Becoming a software engineer at Pivotal Labs has been a profoundly transformative experience for me. At Labs, we espouse a very structured work methodology for its Labs teams: we aim to colocate 40 hours a week, pair program for 100% of our development time, and test-drive 100% of our code. Exceptions arise, but prove the rule--a deep understanding and commitment to Pivotal's engineering practices bring me and my teams product success time and time again.</p>
 
-<p>Software engineering has been only one component of my role. We are consultants, first and foremost, driving constantly toward our client's definition of success. Most of my project teams have been split 50/50 between Pivots and clients, and we prioritize pairing with our client's team members while we are onboarding them to our methodologies. As I have matured in my role, my daily project activities have become nearly 100% client-facing.</p>
+<p>Software engineering has been only one component of my role. We are client-facing consultants as well, driving constantly toward our their definition of success. Most of my project teams have been split 50/50 between Pivots and clients, and we prioritize pairing with our client's team members while we are onboarding them to our methodologies. As I have matured in my role, my daily project activities have become nearly 100% client-facing.</p>
+
 <hr>
 </details>
 
@@ -79,8 +84,3 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/
 
 **US Patent [#9588938](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9588938.PN.&OS=PN/9588938&RS=PN/9588938)**. System-solver co-warping for time-domain solutions of continuous systems.
 
-## Skills
-
-I've worked with a lot of different software languages, frameworks, technologies, and applications. I've built some pretty cool software with the help of some amazing people.
-
-See [skills](./skills.md) for more details.

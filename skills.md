@@ -1,28 +1,6 @@
 # Skills
 
-This page lists my various skills around software languages, frameworks, technologies, practices, or applications. I have listed each skill with my self-assessment of my level of proficiency with that skill.
-
-## Definitions
-
-*Practiced*
-* I can employ this skill fully independently if needed.
-* I consider myself a peer to other practitioners.
-* I can mentor new learners toward effectiveness.
-
-*Effective*
-* I can employ this skill mostly independently if needed.
-* I would usually defer to the strong opinions of practitioners.
-* I can mentor new learners toward competency.
-
-*Competent*
-* I can employ this skill somewhat independently if needed.
-* I would actively seek strong opinions of other practitioners.
-* I can mentor new learners toward familiarity.
-
-*Familiar*
-* I'm dependent on others to employ this skill.
-* I actively seek strong opinions of practitioners.
-* I can offer little to no mentorship.
+This page lists my various skills around software languages, frameworks, technologies, practices, or applications. I have listed each skill with a relative self-assessment.
 
 ## JVM
 
@@ -51,7 +29,7 @@ This page lists my various skills around software languages, frameworks, technol
 | NPM              | Practiced   |
 | React (0.14+)    | Practiced   |
 | Redux            | Practiced   |
-| Vue              | Competent   |
+| Vue              | Familiar    |
 | Express          | Effective   |
 | Jest             | Effective   |
 | Jasmine          | Practiced   |
@@ -68,7 +46,7 @@ This page lists my various skills around software languages, frameworks, technol
 | Python           | Competent   |
 | C#               | Familiar    |
 | C++              | Competent   |
-| Swift            | Familiar    |
+| Swift            | Competent   |
 
 ## Data
 
@@ -107,7 +85,7 @@ This page lists my various skills around software languages, frameworks, technol
 | CF Apps Manager  | Practiced   |
 | Bosh             | Competent   |
 | Docker           | Effective   |
-| Kubernetes       | Familiar    |
+| Kubernetes       | Competent   |
 | Azure DevOps     | Familiar    |
 | GCP              | Familiar    |
 | AWS              | Familiar    |
@@ -135,3 +113,30 @@ This page lists my various skills around software languages, frameworks, technol
 | Vim                  | Effective   |
 | Visual Studio Code   | Effective   |
 | Postman              | Effective   |
+
+
+# Definitions
+
+*Practiced*
+
+* I can employ this skill fully independently if needed.
+* I consider myself a peer to other practitioners.
+* I can mentor new learners toward effectiveness.
+
+*Effective*
+
+* I can employ this skill mostly independently if needed.
+* I would usually defer to the strong opinions of practitioners.
+* I can mentor new learners toward competency.
+
+*Competent*
+
+* I can employ this skill somewhat independently if needed.
+* I would actively seek strong opinions of other practitioners.
+* I can mentor new learners toward familiarity.
+
+*Familiar*
+
+* I'm dependent on others to employ this skill.
+* I actively seek strong opinions of practitioners.
+* I can offer little to no mentorship.
