@@ -1,6 +1,6 @@
 # Skills
 
-This page lists my various skills around software languages, frameworks, technologies, practices, or applications. I have listed each skill with a relative self-assessment.
+This page lists my various skills around software languages, frameworks, technologies, practices, or applications. I have listed each skill with a [relative self-assessment](#definitions).
 
 ## JVM
 
@@ -29,7 +29,7 @@ This page lists my various skills around software languages, frameworks, technol
 | NPM              | Practiced   |
 | React (0.14+)    | Practiced   |
 | Redux            | Practiced   |
-| Vue              | Familiar    |
+| Vue              | Competent   |
 | Express          | Effective   |
 | Jest             | Effective   |
 | Jasmine          | Practiced   |
