@@ -1,6 +1,6 @@
 ## About Me
 
-I've been a software professional since 2008, but I've probably been a software developer all my life.
+I'm a software engineer and people manager with a passion for finding useful solutions to challenging problems.
 
 In my career, I feel deeply rewarded when my work product enhances someone's life or makes the world a better place. For many years, I've mostly been making software to bring that about, but recently, it's involved some people management as well. I do my best work when I am part of a team that is diverse, motivated, curious, and kind.
 
