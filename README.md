@@ -4,9 +4,9 @@ I'm a software engineer and people manager with a passion for finding useful sol
 
 In my career, I feel deeply rewarded when my work product enhances someone's life or makes the world a better place. For many years, I've mostly been making software to bring that about, but recently, it's involved some people management as well. I do my best work when I am part of a team that is diverse, motivated, curious, and kind.
 
-I live near Boston, Massachusetts, and I currently work at [Pivotal Labs](https://pivotal.io/labs). You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
+I live near Boston, Massachusetts, and I currently work at [EverQuote](https://www.everquote.com/about). You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
 
-When I'm not working, I enjoy spending time with my family and friends, strength training, creating music, playing video games, or just drinking a fresh cup of coffee.
+When I'm not working, I enjoy spending time with my family and friends, strength training, creating music, playing video games, and/or a fresh cup of coffee.
 
 ## Skills
 
@@ -16,7 +16,24 @@ If you're looking for details, see my [skills](./skills.md) page.
 
 ## Career
 
-### **Software Engineering Manager**, Pivotal Labs (2017-present)
+### **Principal Engineer**, EverQuote (2020-present)
+
+* Lead development of expansive new partner-facing online insurance products
+* Establish and rollout new technologies (e.g. Spring Boot, Kotlin) and technical practices (Event Storming, Test-Driven Development)
+* Align practices between a small team of direct reports and a larger set of collaborators
+
+<details><summary>More...</summary>
+<p>
+At EverQuote, I've gotten the chance delve deeply into the online advertising and insurance space. Upon arrival, I was put to work immediately to the task of bootstrapping a brand-new product with a very small team. I have brought my "consulting toolkit" to bear, leaning especially on techniques for getting a newly formed team communicating effectively and producing useful software quickly.
+</p>
+  
+<p>
+As a "P-level manager," I still straddle the fence of technical and organizational leadership. My product has grown from a full-time staff of about 3 people to 15-20, very few of whom report directly to me, which has created challenges of its own!
+</p>
+<hr>
+</details>
+
+### **Software Engineering Manager**, Pivotal Labs (2017-2020)
 
 * Provide career mentorship and advocacy for my team of five direct reports
 * Deepen my software engineering practice simultaneously under Pivotal's "player-coach" management model
@@ -30,7 +47,7 @@ If you're looking for details, see my [skills](./skills.md) page.
 <hr>
 </details>
 
-### **Software Engineer**, Pivotal Labs (2015-present)
+### **Software Engineer**, Pivotal Labs (2015-2017)
 
 * Collaborate to build and deliver full-stack, distributed, cloud-native software products for our clients
 * Consult in a client-facing role with customer organizations across industries: health care, personal insurance, federal (DoD), financial services
