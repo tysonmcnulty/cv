@@ -10,10 +10,9 @@ This page lists my various skills around software languages, frameworks, technol
 | Spring               | Practiced   |
 | Spring Boot          | Practiced   |
 | Spring Cloud         | Practiced   |
-| Spring Cloud Netflix | Practiced   |
 | Spring Security      | Practiced   |
 | Spring Data JPA      | Practiced   |
-| Kotlin               | Effective   |
+| Kotlin               | Practiced   |
 | Gradle               | Effective   |
 | Groovy               | Competent   |
 | JUnit (4.12+)        | Practiced   |
@@ -67,7 +66,7 @@ This page lists my various skills around software languages, frameworks, technol
 | :------------------ | :---------- |
 | OAuth2              | Effective   |
 | TLS                 | Competent   |
-| Penetration testing | Familiar    |
+| Threat Modeling     | Competent   |
 | Fortify             | Competent   |
 | OWASP               | Competent   |
 | SonarQube           | Competent   |
@@ -79,16 +78,16 @@ This page lists my various skills around software languages, frameworks, technol
 | Shell (Bash)     | Practiced   |
 | Git              | Practiced   |
 | Concourse CI     | Practiced   |
+| Bamboo           | Practiced   |
 | CircleCI         | Familiar    |
 | Jenkins          | Competent   |
 | CF CLI           | Practiced   |
 | CF Apps Manager  | Practiced   |
 | Bosh             | Competent   |
 | Docker           | Effective   |
-| Kubernetes       | Competent   |
-| Azure DevOps     | Familiar    |
+| Kubernetes       | Effective   |
 | GCP              | Familiar    |
-| AWS              | Familiar    |
+| AWS              | Effective   |
 
 ## Practices
 
@@ -108,7 +107,7 @@ This page lists my various skills around software languages, frameworks, technol
 | :------------------  | :---------- |
 | MS Office            | Effective   |
 | G-Suite              | Effective   |
-| IntelliJ/Webstorm    | Practiced   |
+| JetBrains IDEs       | Practiced   |
 | Eclipse              | Competent   |
 | Vim                  | Effective   |
 | Visual Studio Code   | Effective   |
