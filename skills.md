@@ -12,9 +12,11 @@ This page lists my various skills around software languages, frameworks, technol
 | Spring Cloud         | Practiced   |
 | Spring Security      | Practiced   |
 | Spring Data JPA      | Practiced   |
+| Spring Integration   | Competent   |
 | Kotlin               | Practiced   |
 | Gradle               | Effective   |
 | Groovy               | Competent   |
+| Scala                | Competent   |
 | JUnit (4.12+)        | Practiced   |
 | Spring Boot Test     | Practiced   |
 
@@ -42,7 +44,7 @@ This page lists my various skills around software languages, frameworks, technol
 | :--------------- | :---------- |
 | Go               | Competent   |
 | Ruby             | Competent   |
-| Python           | Competent   |
+| Python           | Effective   |
 | C#               | Familiar    |
 | C++              | Competent   |
 | Swift            | Competent   |
@@ -86,7 +88,7 @@ This page lists my various skills around software languages, frameworks, technol
 | Bosh             | Competent   |
 | Docker           | Effective   |
 | Kubernetes       | Effective   |
-| GCP              | Familiar    |
+| GCP              | Competent   |
 | AWS              | Effective   |
 
 ## Practices

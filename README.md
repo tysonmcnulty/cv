@@ -4,9 +4,9 @@ I'm a software engineer and people manager with a passion for finding useful sol
 
 In my career, I feel deeply rewarded when my work product enhances someone's life or makes the world a better place. For many years, I've mostly been making software to bring that about, but recently, it's involved some people management as well. I do my best work when I am part of a team that is diverse, motivated, curious, and kind.
 
-I live near Boston, Massachusetts, and I currently work at [EverQuote](https://www.everquote.com/about). You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
+I live near Boston, Massachusetts, and I currently work at [VMware Tanzu Labs](https://tanzu.vmware.com/tanzu). You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
 
-When I'm not working, I enjoy spending time with my family and friends, strength training, creating music, playing video games, and/or a fresh cup of coffee.
+When I'm not working, I enjoy spending time with family and friends, strength training, making music, gaming, and/or a fresh cup of coffee.
 
 ## Skills
 
@@ -16,19 +16,24 @@ If you're looking for details, see my [skills](./skills.md) page.
 
 ## Career
 
-### **Principal Engineer**, EverQuote (2020-present)
+### **Principal Software Engineer**, [VMware Tanzu Labs](https://tanzu.vmware.com/tanzu) (2021-now)
 
-* Lead development of expansive new partner-facing online insurance products
-* Establish and rollout new technologies (e.g. Spring Boot, Kotlin) and technical practices (Event Storming, Test-Driven Development)
-* Align practices between a small team of direct reports and a larger set of collaborators
+* Take on challenging client engagements that test the limits of our processes and practices
+* Deepen our technical consulting practice around strategic technologies like Spring and Kubernetes
+
+### **Principal Software Engineer**, [EverQuote](https://www.everquote.com/about) (2020-2021)
+
+* Led development of expansive new partner- and customer-facing online insurance product
+* Contributed to new and existing microservices (Spring Boot/Kotlin, NodeJS, Go) and apps (mostly React) on multiple Kubernetes platforms
+* Introduced and aligned industry-leading technical practices (Event Storming, Test-Driven Development, GitOps) among both a small team of direct reports and a larger set of collaborators
 
 <details><summary>More...</summary>
 <p>
-At EverQuote, I've gotten the chance delve deeply into the online advertising and insurance space. Upon arrival, I was put to work immediately to the task of bootstrapping a brand-new product with a very small team. I have brought my "consulting toolkit" to bear, leaning especially on techniques for getting a newly formed team communicating effectively and producing useful software quickly.
+At EverQuote, I got the chance delve deeply into the online advertising and insurance space. Upon arrival, I was put to work immediately to the task of bootstrapping a brand-new product with a very small team. I brought my "consulting toolkit" to bear, leaning especially on techniques for getting a newly formed team communicating effectively and producing useful software quickly. The product went live in production after 2-3 months of initial development, and was pulling in over $50K/day of revenue by 9 months.
 </p>
-  
+
 <p>
-As a "P-level manager," I still straddle the fence of technical and organizational leadership. My product has grown from a full-time staff of about 3 people to 15-20, very few of whom report directly to me, which has created challenges of its own!
+As a "P-level manager," I still straddled the fence of technical and organizational leadership. My product team grew from about 3 people to 15-20, very few of whom reported directly to me, which created challenges of its own! After nine months, I had to make a decision on whether to see the project through to the next phase, and ultimately decided to return to consulting.
 </p>
 <hr>
 </details>
