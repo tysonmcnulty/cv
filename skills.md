@@ -1,12 +1,14 @@
 # Skills
 
-This page lists my various skills around software languages, frameworks, technologies, practices, or applications. I have listed each skill with a [relative self-assessment](#definitions).
+This page lists my various skills around software languages, frameworks, technologies, design, practices, and applications.
+
+I have paired each skill with a [relative self-assessment](#definitions).
 
 ## JVM
 
 | Skill                | Proficiency |
 | :------------------- | :---------- |
-| Language (1.8+)      | Practiced   |
+| Java     (1.8+)      | Practiced   |
 | Spring               | Practiced   |
 | Spring Boot          | Practiced   |
 | Spring Cloud         | Practiced   |
@@ -14,7 +16,7 @@ This page lists my various skills around software languages, frameworks, technol
 | Spring Data JPA      | Practiced   |
 | Spring Integration   | Competent   |
 | Kotlin               | Practiced   |
-| Gradle               | Effective   |
+| Gradle               | Practiced   |
 | Groovy               | Competent   |
 | Scala                | Competent   |
 | JUnit (4.12+)        | Practiced   |
@@ -22,21 +24,24 @@ This page lists my various skills around software languages, frameworks, technol
 
 ## JavaScript
 
-| Skill            | Proficiency |
-| :--------------- | :---------- |
-| Language (ES6+)  | Practiced   |
-| Node (6+)        | Practiced   |
-| TypeScript (2+)  | Effective   |
-| NPM              | Practiced   |
-| React (0.14+)    | Practiced   |
-| Redux            | Practiced   |
-| Vue              | Competent   |
-| Express          | Effective   |
-| Jest             | Effective   |
-| Jasmine          | Practiced   |
-| Mocha/Chai/Sinon | Practiced   |
-| Cypress          | Effective   |
-| Codecept         | Effective   |
+| Skill             | Proficiency |
+| :---------------- | :---------- |
+| JavaScript (ES6+) | Practiced   |
+| Node (6+)         | Practiced   |
+| TypeScript (2+)   | Effective   |
+| React (0.14+)     | Practiced   |
+| React Native      | Effective   |
+| Redux             | Practiced   |
+| Gatsby            | Effective   |
+| Vue               | Competent   |
+| Angular           | Familiar    |
+| Express           | Effective   |
+| Jest              | Practiced   |
+| Jasmine           | Practiced   |
+| Mocha/Chai/Sinon  | Practiced   |
+| Testing Library   | Practiced   |
+| Cypress           | Effective   |
+| Codecept          | Effective   |
 
 ## Other programming languages
 
@@ -48,19 +53,37 @@ This page lists my various skills around software languages, frameworks, technol
 | C#               | Familiar    |
 | C++              | Competent   |
 | Swift            | Competent   |
+| Markdown         | Practiced   |
+| HTML             | Effective   |
+| CSS              | Effective   |
 
 ## Data
 
 | Skill            | Proficiency |
 | :--------------- | :---------- |
-| Postgres         | Effective   |
-| MySQL            | Effective   |
+| Postgres         | Competent   |
+| MySQL            | Competent   |
+| ORM              | Effective   |
 | JSON             | Practiced   |
 | YAML             | Practiced   |
 | MongoDB          | Competent   |
 | S3               | Competent   |
 | Redis            | Competent   |
-| REST             | Effective   |
+| gRPC             | Effective   |
+| GraphQL          | Familiar    |
+| RabbitMQ         | Effective   |
+| Kafka            | Competent   |
+
+## Software Architecture
+
+| REST                              | Effective  |
+| Domain-driven design              | Practiced  |
+| Object-oriented programming (OOP) | Practiced  |
+| Functional programming (FP)       | Effective  |
+| Microservice design               | Practiced  |
+| Site Reliability Engineering      | Competent  |
+| Event-driven architecture         | Effective  |
+| Event sourcing                    | Competent  |
 
 ## Security
 
@@ -77,44 +100,46 @@ This page lists my various skills around software languages, frameworks, technol
 
 | Skill            | Proficiency |
 | :--------------- | :---------- |
-| Shell (Bash)     | Practiced   |
+| Bash/Zsh         | Practiced   |
 | Git              | Practiced   |
 | Concourse CI     | Practiced   |
-| Bamboo           | Practiced   |
+| Bamboo           | Effective   |
 | CircleCI         | Familiar    |
 | Jenkins          | Competent   |
-| CF CLI           | Practiced   |
-| CF Apps Manager  | Practiced   |
+| GitHub Actions   | Competent   |
+| Auto DevOps      | Competent   |
+| PCF / TAS        | Practiced   |
+| OpenShift        | Effective   |
 | Bosh             | Competent   |
 | Docker           | Effective   |
 | Kubernetes       | Effective   |
 | GCP              | Competent   |
 | AWS              | Effective   |
+| Terraform        | Effective   |
 
 ## Practices
 
 | Skill                             | Proficiency  |
 | :-------------------------------- | :----------- |
 | Test-driven development           | Practiced    |
+| Acceptance testing                | Practiced    |
 | Pair programming                  | Practiced    |
-| Continuous Integration            | Practiced    |
-| Continuous Deployment             | Practiced    |
-| Domain-driven design              | Practiced    |
-| Object-oriented programming (OOP) | Practiced    |
-| Functional programming (FP)       | Effective    |
+| Refactoring                       | Practiced    |
+| Workstation setup                 | Practiced    |
 
 ## Applications
 
 | Skill                | Proficiency |
 | :------------------  | :---------- |
-| MS Office            | Effective   |
-| G-Suite              | Effective   |
+| MS Office            | Practiced   |
+| G-Suite              | Practiced   |
 | JetBrains IDEs       | Practiced   |
 | Eclipse              | Competent   |
 | Vim                  | Effective   |
 | Visual Studio Code   | Effective   |
 | Postman              | Effective   |
-
+| JIRA                 | Competent   |
+| Pivotal Tracker      | Practiced   |
 
 # Definitions
 
