@@ -22,7 +22,7 @@ If you're looking for details, see my [skills](./skills.md) page.
 * Deepen our technical consulting practice around strategic technologies like Spring and Kubernetes
 * Serve in a strategic full-stack engineering role across various industries
 
-<details><summary><a>More...</a></summary>
+<details><summary>[More...](#)</summary>
 <p>
 It's felt like a homecoming returning to the Labs team. We've been navigating the challenges of the shift to hybrid work across the software industry. And, my time on the "product side" gave me new insights and appreciation for our clients' experiences. This time around, I have been staffed to projects in financial services, federal government, renewable energy, health care/wearables, large-scale retail, and international shipping.
 </p>
@@ -34,17 +34,15 @@ Technology wise, I have broad full-stack exposure across many languages and fram
 <p>
 My role does not include people management this time around, but as a principal engineer, I tend to be used in more of a tactical or strategic role on engagements. Sometimes that means working closely with a dev team, like a tech lead, helping the team adopt practices that lead to long-term success. Other times, I'm consulting closer to the account level, helping our delivery teams chart a path to success with client leadership, or as a sort of software-architect-for-hire, helping to devise a high-level plan for large projects with several software delivery teams.
 </p>
-
-<hr>
 </details>
-
+<hr>
 ### **Principal Software Engineer**, [EverQuote](https://www.everquote.com/about) (2020-2021)
 
 * Led development of expansive new partner- and customer-facing online insurance product
 * Contributed to new and existing microservices (Spring Boot/Kotlin, NodeJS, Go) and apps (mostly React) on multiple Kubernetes platforms
 * Introduced and aligned industry-leading technical practices (Event Storming, Test-Driven Development, GitOps) among both a small team of direct reports and a larger set of collaborators
 
-<details><summary><a>More...</a></summary>
+<details><summary>[More...](#)</summary>
 <p>
 At EverQuote, I got the chance delve deeply into the online advertising and insurance space. Upon arrival, I was put to work immediately to the task of bootstrapping a brand-new product with a very small team. I brought my "consulting toolkit" to bear, leaning especially on techniques for getting a newly formed team communicating effectively and producing useful software quickly. The product went live in production after 2-3 months of initial development, and was earning over $50K/day of revenue by the end of my tenure.
 </p>
@@ -52,8 +50,8 @@ At EverQuote, I got the chance delve deeply into the online advertising and insu
 <p>
 My job also included people management responsibilities. I had one direct report when hired, with plans to hire or reorg to add more to my team. The product team grew from about 3 people to 15-20, very few of whom reported directly to me, which created challenges of its own! After nine months, I had to make a decision on whether to see the project through to the next phase with a team of 6-7. Ultimately, I decided to return to consulting.
 </p>
-<hr>
 </details>
+<hr>
 
 ### **Software Engineering Manager**, Pivotal Labs (2017-2020)
 
@@ -61,13 +59,17 @@ My job also included people management responsibilities. I had one direct report
 * Deepen my software engineering practice simultaneously under Pivotal's "player-coach" management model
 * Strategize with leadership to identify and carry out office-wide initiatives on behalf of the business
 
-<details><summary><a>More...</a></summary>
-<p>I took on the people manager role in an effort to make a stronger impact on the success of my office, and in doing so, I developed a new perspective on the operation of our business. A large part of people management at my level could be summarized as bridging our leadership's goals with the individual intentions and motivations of my reports. I have found that I'm able to produce such alignment best when I am able to practice candor, empathy, and trust on both sides of that bridge.</p>
+<details><summary>[More...](#)</summary>
+<p>
+I took on the people manager role in an effort to make a stronger impact on the success of my office, and in doing so, I developed a new perspective on the operation of our business. A large part of people management at my level could be summarized as bridging our leadership's goals with the individual intentions and motivations of my reports. I have found that I'm able to produce such alignment best when I am able to practice candor, empathy, and trust on both sides of that bridge.
+</p>
 
-<p>As a "P-level manager," I straddled the line between technical and organizational leadership. The role was about between roughly 75-90% engineering and 10-25% people management, depending on need. Maintaining my responsibilities as a contributor motivates me to a high degree, and I love that it keeps me attuned to the experiences of the majority of the office and to my reports.</p>
+<p>
+As a "P-level manager," I straddled the line between technical and organizational leadership. The role was about between roughly 75-90% engineering and 10-25% people management, depending on need. Maintaining my responsibilities as a contributor motivates me to a high degree, and I love that it keeps me attuned to the experiences of the majority of the office and to my reports.
+</p>
 
-<hr>
 </details>
+<hr>
 
 ### **Software Engineer**, Pivotal Labs (2015-2017)
 
@@ -75,13 +77,16 @@ My job also included people management responsibilities. I had one direct report
 * Consult in a client-facing role with customer organizations across industries: health care, personal insurance, federal (DoD), financial services
 * Adopt and champion Pivotal's test-driven development (TDD), pair programming, and DevOps practices
 
-<details><summary><a>More...</a></summary>
-<p>Becoming a software engineer at Pivotal Labs has been a profoundly transformative experience for me. At Labs, we espouse a very structured work methodology for its Labs teams: we aim to colocate 40 hours a week, pair program for 100% of our development time, and test-drive 100% of our code. Exceptions arise, but prove the rule--a deep understanding and commitment to Pivotal's engineering practices bring me and my teams product success time and time again.</p>
+<details><summary>[More...](#)</summary>
+<p>
+Becoming a software engineer at Pivotal Labs has been a profoundly transformative experience for me. At Labs, we espouse a very structured work methodology for its Labs teams: we aim to colocate 40 hours a week, pair program for 100% of our development time, and test-drive 100% of our code. Exceptions arise, but prove the rule--a deep understanding and commitment to Pivotal's engineering practices bring me and my teams product success time and time again.
+</p>
 
-<p>Software engineering has been only one component of my role. We are client-facing consultants as well, driving constantly toward our their definition of success. Most of my project teams have been split 50/50 between Pivots and clients, and we prioritize pairing with our client's team members while we are onboarding them to our methodologies. As I have matured in my role, my daily project activities have become nearly 100% client-facing.</p>
-
-<hr>
+<p>
+Software engineering has been only one component of my role. We are client-facing consultants as well, driving constantly toward our their definition of success. Most of my project teams have been split 50/50 between Pivots and clients, and we prioritize pairing with our client's team members while we are onboarding them to our methodologies. As I have matured in my role, my daily project activities have become nearly 100% client-facing.
+</p>
 </details>
+<hr>
 
 ### **Software Engineer**, MOTU (2012-2015)
 
@@ -107,6 +112,10 @@ My job also included people management responsibilities. I had one direct report
 * Operated and programmed robotic dipping arms to make experimental research samples
 
 ## Volunteering
+
+### **Member**, MIT Reunion Gift Committee (2023)
+
+### **Member**, MIT Reunion Planning Committee (2018)
 
 ### **Member**, MIT Annual Fund Board (2014-2018)
 
