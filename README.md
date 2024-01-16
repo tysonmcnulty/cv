@@ -1,8 +1,8 @@
 ## About Me
 
-I'm a software engineer, consultant, and people manager with a passion for finding useful solutions to challenging problems.
+I'm a software engineer, consultant, and people manager with a passion for problem solving, team building, and lifelong learning.
 
-I feel deeply rewarded when my work enhances someone's life or makes the world a better place. For many years, I've mostly been making software to bring that about, but recently, it's involved some people management as well. I do my best work when I am part of a team that is diverse, motivated, ethical, curious, and kind.
+I feel deeply rewarded when my work enhances lives or makes the world a better place. I do my best work when I am part of a team that is diverse, motivated, ethical, curious, and kind.
 
 I live near Boston, Massachusetts, and I currently work at [VMware Tanzu Labs](https://tanzu.vmware.com/tanzu). You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
 
@@ -16,11 +16,11 @@ If you're looking for details, see my [skills](./skills.md) page.
 
 ## Career
 
-### **Principal Software Engineer**, [VMware Tanzu Labs](https://tanzu.vmware.com/tanzu) (2021-now)
+### **Principal Software Engineer**, [VMware Tanzu Labs](https://tanzu.vmware.com/labs) (2021-now)
 
+* Serve in a strategic full-stack engineering lead role across various industries: retail, solar power, shipping, financial services, federal
 * Take on challenging client engagements that test the limits of our processes and practices
 * Deepen our technical consulting practice around strategic technologies like Spring and Kubernetes
-* Serve in a strategic full-stack engineering role across various industries
 
 <details><summary><a style="cursor:pointer;">More...</a></summary>
 <p>
@@ -36,6 +36,7 @@ My role does not include people management this time around, but as a principal 
 </p>
 </details>
 <hr>
+
 ### **Principal Software Engineer**, [EverQuote](https://www.everquote.com/about) (2020-2021)
 
 * Led development of expansive new partner- and customer-facing online insurance product
@@ -130,6 +131,6 @@ Software engineering has been only one component of my role. We are client-facin
 
 ## Awards
 
-**US Patent [#9588938](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9588938.PN.&OS=PN/9588938&RS=PN/9588938)**. System-solver co-warping for time-domain solutions of continuous systems.
+**US Patent [#9588938](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9588938)**. System-solver co-warping for time-domain solutions of continuous systems.
 
 **Certified Kubernetes Application Developer (CKAD)**. Verification ID: CKAD-2000-003055-0100.
