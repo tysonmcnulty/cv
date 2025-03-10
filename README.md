@@ -6,15 +6,19 @@ I love solving tough problems, improving lives through technology, growing commu
 
 At work, I've found success as a software engineer, consultant, technical leader, and people manager. Since 2008, I have been creating great software inside many organizations with the help of some amazing people. I do my best work when I am part of a team that is ethical, curious, diverse, motivated, and kind. I currently work at [Infinite Labs](https://www.infiniteranges.com/infinite-labs).
 
-At home, I enjoy spending time with family and friends, making music, working out, gaming, and drinking fresh coffee. If you'd like to get in touch, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
+At home, I enjoy spending time with family and friends, making music, working out, gaming, reading, cooking, and drinking fresh coffee. If you'd like to get in touch, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
 
-## Skills
+## How I Work
 
-I like working full-stack, and then some. I write my best code when I write my tests first, and I can teach you TDD, too, if you want. I think great code works well *and* conveys meaning to the people reading it. I like putting working software in the hands of real users, as often as possible. I like deploying my software to production when all of my tests pass, and I like doing whatever it takes to make that a reliable, secure, and automated process. I like Agile more than waterfall, and I like XP best of all, but I know through experience that a culture of trust and empowerment matters more than the current management paradigm.
+I've worked with a lot of different software languages, frameworks, technologies, tools, and applications. I'm excellent with React/TypeScript frontends, Spring Boot backends, and Kubernetes-based platforms, but by no means limited to those options. I'm flexible on persistence layers and data services. If you're looking for more detail, I keep track of that stuff in a [skills matrix](./skills.md).
 
-I've worked with a lot of different software languages, frameworks, technologies, tools, and business applications. I'm excellent with React/TypeScript frontends, Spring Boot backends, and Kubernetes-based platforms, but by no means limited to those options. I'm flexible on persistence layers and data services. If you're looking for more detail, I keep track of that stuff in a [skills matrix](./skills.md).
+I like working full-stack, and then some. I write my best code when I write my tests first, and I can teach you TDD, too, if you want. I think great code works well *and* conveys meaning to the people reading it. I like putting working software in the hands of real users, as often as possible. I like integrating, releasing, and deploying my software to production when all of my tests pass, automatically, and I like doing whatever it takes to make that process reliable, secure, and continuous.
 
-## Career
+I like Agile more than waterfall, and I like XP best of all, but I know through experience that a culture of trust and empowerment matters more than the prevailing management paradigm. I believe organizational structure deeply influences software architecture, and vice versa, so I like being in a position where I can influence both. I've seen Conway's Law borne out in practice more times than I can count, and I agree with Gerald Weinberg that "no matter what the problem is, it's always a people problem." I think we undermine what we can accomplish together when we label each other (or ourselves) as "technical" or not.
+
+TL;DR Do what works, do the right thing, be kind.
+
+## My Career
 
 ### **Principal Software Engineer**, [VMware Tanzu Labs](https://tanzu.vmware.com/labs)/[Infinite Labs](https://www.infiniteranges.com/infinite-labs) (2021-now)
 
@@ -33,7 +37,7 @@ As a principal engineer, I routinely leverage both the breadth and depth of my p
 </p>
 
 <p>
-By choice, my role does not include people-management responsibilities this time around. However, as a principal engineer, I tended to be used in more of a tactical or strategic role on engagements. Sometimes that meant working closely with a dev team, as a tech lead, helping the team adopt practices that led to long-term success. Other times, I would consult closer to the account level, helping our delivery teams chart a path to success with client leadership. In other projects, I would work as a software architect, helping to devise a high-level plan for large projects spanning several delivery teams.
+By choice, my role does not include people-management responsibilities this time around. However, as a principal engineer, I tend to be used in more of a tactical or strategic role on engagements. Sometimes, that means working within with a dev team, as a tech lead, helping the team adopt practices that led to long-term success. Or, it could mean working as a software architect, helping to devise a high-level plan for large projects spanning several delivery teams. Other times, I consult closer to the account level, helping our delivery teams chart a path to success with client leadership.
 </p>
 
 <p>
