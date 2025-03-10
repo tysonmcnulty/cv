@@ -1,38 +1,43 @@
 ## About Me
 
-I'm a software engineer, consultant, and people manager with a passion for problem solving, team building, and lifelong learning.
+Hello! 👋 I'm Tyson.
 
-I feel deeply rewarded when my work enhances lives or makes the world a better place. I do my best work when I am part of a team that is diverse, motivated, ethical, curious, and kind.
+I love solving tough problems, improving lives through technology, growing communities, and making the world a better place.
 
-I live near Boston, Massachusetts, and I currently work at [VMware Tanzu Labs](https://tanzu.vmware.com/tanzu). You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
+At work, I've found success as a software engineer, consultant, technical leader, and people manager. Since 2008, I have been creating great software inside many organizations with the help of some amazing people. I do my best work when I am part of a team that is ethical, curious, diverse, motivated, and kind. I currently work at [Infinite Labs](https://www.infiniteranges.com/infinite-labs).
 
-When I'm not working, I enjoy spending time with family and friends, making music, strength training, gaming, and freshly brewed coffee.
+At home, I enjoy spending time with family and friends, making music, working out, gaming, and drinking fresh coffee. If you'd like to get in touch, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/tyson-mcnulty-611146b/); I use he/him pronouns.
 
 ## Skills
 
-I've worked with a lot of different software languages, frameworks, technologies, and applications. I've built some pretty cool software with the help of some amazing people.
+I like working full-stack, and then some. I write my best code when I write my tests first, and I can teach you TDD, too, if you want. I think great code works well *and* conveys meaning to the people reading it. I like putting working software in the hands of real users, as often as possible. I like deploying my software to production when all of my tests pass, and I like doing whatever it takes to make that a reliable, secure, and automated process. I like Agile more than waterfall, and I like XP best of all, but I know through experience that a culture of trust and empowerment matters more than the current management paradigm.
 
-If you're looking for details, see my [skills](./skills.md) page.
+I've worked with a lot of different software languages, frameworks, technologies, tools, and business applications. I'm excellent with React/TypeScript frontends, Spring Boot backends, and Kubernetes-based platforms, but by no means limited to those options. I'm flexible on persistence layers and data services. If you're looking for more detail, I keep track of that stuff in a [skills matrix](./skills.md).
 
 ## Career
 
-### **Principal Software Engineer**, [VMware Tanzu Labs](https://tanzu.vmware.com/labs) (2021-now)
+### **Principal Software Engineer**, [VMware Tanzu Labs](https://tanzu.vmware.com/labs)/[Infinite Labs](https://www.infiniteranges.com/infinite-labs) (2021-now)
 
-* Serve in a strategic full-stack engineering lead role across various industries: retail, solar power, shipping, financial services, federal
-* Take on challenging client engagements that test the limits of our processes and practices
-* Deepen our technical consulting practice around strategic technologies like Spring and Kubernetes
+* Serve in a strategic full-stack engineering lead role across various industries
+* Test the limits of our processes and practices in chsllenging client engagements
+* Deepen our technical consulting practice around strategic technologies
+* Deliver high-priority outcomes in shifting business landscapes
 
 <details><summary><a style="cursor:pointer;">More...</a></summary>
 <p>
-It's felt like a homecoming returning to the Labs team. We've been navigating the challenges of the shift to hybrid work across the software industry. And, my time on the "product side" gave me new insights and appreciation for our clients' experiences. This time around, I have been staffed to projects in financial services, federal government, renewable energy, health care/wearables, large-scale retail, and international shipping.
+Returning to the Labs team as a principal engineer has been an exciting opportunity to test what I learned working inside of a product organization. I have brought new insights and appreciation for our clients' experiences from my time on the "product side" with EverQuote. This time around, I have been staffed to projects in financial services, federal government, veterans' affairs, renewable energy, health care/wearables, large-scale retail, and international shipping.
 </p>
 
 <p>
-Technology wise, I have broad full-stack exposure across many languages and frameworks, and expert-level skill with a handful of them. Sometimes, I'm staffed as a generalist, and my job is to identify the areas of a project that need the most help, and learn what I need to learn to make the most impactful improvements. Other times, I'm staffed as an expert in a core technology that's of use to the client, and I'm there to provide technical expertise and/or mentorship.
+As a principal engineer, I routinely leverage both the breadth and depth of my past experiences. Sometimes, I am staffed as a generalist, identifying the areas of a project that need the most help, and learning what I need to learn to make the most impactful improvements. Other times, I am staffed as an expert in a core technology that's of use to the client, and expected to provide technical expertise and/or mentorship.
 </p>
 
 <p>
-My role does not include people management this time around, but as a principal engineer, I tend to be used in more of a tactical or strategic role on engagements. Sometimes that means working closely with a dev team, like a tech lead, helping the team adopt practices that lead to long-term success. Other times, I'm consulting closer to the account level, helping our delivery teams chart a path to success with client leadership, or as a sort of software-architect-for-hire, helping to devise a high-level plan for large projects with several software delivery teams.
+By choice, my role does not include people-management responsibilities this time around. However, as a principal engineer, I tended to be used in more of a tactical or strategic role on engagements. Sometimes that meant working closely with a dev team, as a tech lead, helping the team adopt practices that led to long-term success. Other times, I would consult closer to the account level, helping our delivery teams chart a path to success with client leadership. In other projects, I would work as a software architect, helping to devise a high-level plan for large projects spanning several delivery teams.
+</p>
+
+<p>
+I've navigated a few significant shifts in company culture this time around. Our in-person consulting strategy had to adapt to a remote-first world. Ironically, with many organizations in our industry returning to office, we are now navigating the opposite change. And, in the wake of the VMware-Broadcom merger, the Tanzu Labs team has become Infinite Labs, a part of Infinite Ranges. I have learned a lot about staying focused and grounded in times of change.
 </p>
 </details>
 <hr>

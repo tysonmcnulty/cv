@@ -8,18 +8,18 @@ I have paired each skill with a [relative self-assessment](#definitions).
 
 | Skill                | Proficiency |
 | :------------------- | :---------- |
-| Java     (1.8+)      | Practiced   |
+| Java (1.8+)          | Practiced   |
 | Spring               | Practiced   |
 | Spring Boot          | Practiced   |
 | Spring Cloud         | Practiced   |
 | Spring Security      | Practiced   |
 | Spring Data JPA      | Practiced   |
-| Spring Integration   | Competent   |
+| Spring Integration   | Effective   |
 | Kotlin               | Practiced   |
 | Gradle               | Practiced   |
 | Groovy               | Competent   |
 | Scala                | Competent   |
-| JUnit (4.12+)        | Practiced   |
+| JUnit (4+)           | Practiced   |
 | Spring Boot Test     | Practiced   |
 
 ## JavaScript
@@ -28,12 +28,12 @@ I have paired each skill with a [relative self-assessment](#definitions).
 | :---------------- | :---------- |
 | JavaScript (ES6+) | Practiced   |
 | Node (6+)         | Practiced   |
-| TypeScript (2+)   | Effective   |
+| TypeScript (2+)   | Practiced   |
 | React (0.14+)     | Practiced   |
 | React Native      | Effective   |
 | Redux             | Practiced   |
-| Gatsby            | Effective   |
-| Vue               | Competent   |
+| SSR (Gatsby/Next) | Competent   |
+| Vue (2+)          | Competent   |
 | Angular           | Familiar    |
 | Express           | Effective   |
 | Jest              | Practiced   |
@@ -49,9 +49,10 @@ I have paired each skill with a [relative self-assessment](#definitions).
 | :--------------- | :---------- |
 | Go               | Competent   |
 | Ruby             | Competent   |
-| Python           | Effective   |
+| Python (3+)      | Effective   |
 | C#               | Familiar    |
 | C++              | Competent   |
+| Rust             | Familiar    |
 | Swift            | Competent   |
 | Markdown         | Practiced   |
 | HTML             | Effective   |
@@ -72,7 +73,7 @@ I have paired each skill with a [relative self-assessment](#definitions).
 | gRPC             | Effective   |
 | GraphQL          | Familiar    |
 | RabbitMQ         | Effective   |
-| Kafka            | Competent   |
+| Kafka            | Effective   |
 
 ## Software Architecture
 
@@ -82,8 +83,8 @@ I have paired each skill with a [relative self-assessment](#definitions).
 | Functional programming (FP)       | Effective  |
 | Microservice design               | Practiced  |
 | Site Reliability Engineering      | Competent  |
-| Event-driven architecture         | Effective  |
-| Event sourcing                    | Competent  |
+| Event-driven architecture         | Practiced  |
+| Event sourcing / CQRS             | Competent  |
 
 ## Security
 
@@ -108,10 +109,11 @@ I have paired each skill with a [relative self-assessment](#definitions).
 | Jenkins          | Competent   |
 | GitHub Actions   | Competent   |
 | Auto DevOps      | Competent   |
+| Airflow          | Competent   |
 | PCF / TAS        | Practiced   |
 | OpenShift        | Effective   |
 | Bosh             | Competent   |
-| Docker           | Effective   |
+| Docker / OCI     | Practiced   |
 | Kubernetes       | Effective   |
 | GCP              | Competent   |
 | AWS              | Effective   |
@@ -134,10 +136,10 @@ I have paired each skill with a [relative self-assessment](#definitions).
 | MS Office            | Practiced   |
 | G-Suite              | Practiced   |
 | JetBrains IDEs       | Practiced   |
-| Eclipse              | Competent   |
 | Vim                  | Effective   |
 | Visual Studio Code   | Effective   |
 | Postman              | Effective   |
+| Eclipse / STS        | Competent   |
 | JIRA                 | Competent   |
 | Pivotal Tracker      | Practiced   |
 
