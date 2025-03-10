@@ -23,7 +23,7 @@ TL;DR Do what works, do the right thing, be kind.
 ### **Principal Software Engineer**, [VMware Tanzu Labs](https://tanzu.vmware.com/labs)/[Infinite Labs](https://www.infiniteranges.com/infinite-labs) (2021-now)
 
 * Serve in a strategic full-stack engineering lead role across various industries
-* Test the limits of our processes and practices in chsllenging client engagements
+* Test the limits of our processes and practices in challenging client engagements
 * Deepen our technical consulting practice around strategic technologies
 * Deliver high-priority outcomes in shifting business landscapes
 
